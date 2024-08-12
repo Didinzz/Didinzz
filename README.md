@@ -36,10 +36,29 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Didinzz/Didinzz/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Didinzz&theme=react&hide_border=false"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Didinzz&theme=react&show_icons=true&hide_border=false&count_private=true" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didinzz&theme=react&show_icons=true&hide_border=false&layout=compact" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Thanks+For+Visiting+My+Github+%F0%9F%98%81;I'am+Iron+Man+" alt="Typing SVG"" />
+  
+</h3>
