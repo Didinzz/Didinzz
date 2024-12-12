@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Didinzz&theme=react&hide_border=false"/>
+<!--   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Didinzz&theme=react&hide_border=false"/> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Didinzz&theme=react&show_icons=true&hide_border=false&count_private=true" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didinzz&theme=react&show_icons=true&hide_border=false&layout=compact" />
